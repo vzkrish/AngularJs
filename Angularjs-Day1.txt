@@ -4,3 +4,33 @@ http://bit.ly/ang4_vatsan
 http://bit.ly/ang4_02_vatsan
 
 https://github.com/vatsank
+
+Initial Angularjs 1.x has Directive
+
+Angular 2 - 14th Sept 2016
+Angular 4 - 23rd March 2017
+Angular 5 - 11th Nov 2017
+Angular 6 - 03 May 2018
+
+
+Angular js 1 Used JIT - Just Intime Compiliers
+
+Angular 4 used AOT(Ahead of Time).
+Angular 4 Debugging much more easier. 
+
+Angular Contains Only 8 Components:
+
+Module
+Component
+Template
+Metadata
+DataBinding
+Service
+Directive
+Dependency Injection
+
+Angular is a client side MVC Application
+Angular is a Single Page Application
+
+Single Page Application(SPA)
+One Real HTML Page, whose content can be changed in Javascript without having to download a new page.
