@@ -33,4 +33,17 @@ Angular is a client side MVC Application
 Angular is a Single Page Application
 
 Single Page Application(SPA)
-One Real HTML Page, whose content can be changed in Javascript without having to download a new page.
+  One Real HTML Page, whose content can be changed in Javascript without having to download a new page.
+
+  Server Sends an application engine along with the HTML Page. 
+  This Application Engine controls the entier application including processing, input, output,painting and loading of the HTML Pages. 
+  
+  Four Principles of the SPA:
+    Chunking:
+      Pages are constructed by loading chunks of HTML Fragements
+    Controllers
+      Javascript code that handles complex DOM
+    Templating:
+      Coding UI and DOM manipulates are replaced
+    Rourting
+      Selection of Views and Navigation that preserves page state, elements and data
