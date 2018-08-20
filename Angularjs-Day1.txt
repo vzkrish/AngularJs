@@ -3,6 +3,11 @@ Angular Js 5  - vatsank@gmail.com - Freelance Trainer - 20Aug2018
 http://bit.ly/ang4_vatsan
 http://bit.ly/ang4_02_vatsan
 
+https://drive.google.com/file/d/1S292wosYximK0TrcX8joDDU5GEIXGvmH/view
+
+Es6 Features
+bit.ly/vatsank_ests
+
 https://github.com/vatsank
 
 Initial Angularjs 1.x has Directive
@@ -47,3 +52,6 @@ Single Page Application(SPA)
       Coding UI and DOM manipulates are replaced
     Rourting
       Selection of Views and Navigation that preserves page state, elements and data
+
+
+http://bit.ly/nodeintro_vatsan
